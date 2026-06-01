@@ -1,0 +1,7 @@
+[package]
+name = "superinstance/luau-audio"
+version = "0.1.0"
+license = "MIT"
+author = "SuperInstance"
+description = "Musical math for Roblox — MIDI, scales, intervals, frequency calculations"
+realm = "shared"

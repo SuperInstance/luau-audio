@@ -1,0 +1,11 @@
+{
+  "name": "luau-audio",
+  "tree": {
+    "$className": "DataModel",
+    "ReplicatedStorage": {
+      "luau-audio": {
+        "$path": "src"
+      }
+    }
+  }
+}
